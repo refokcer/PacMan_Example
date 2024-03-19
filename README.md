@@ -20,4 +20,4 @@ pip install pygame
 
 ```bash
 python main.py
-```
+```# PacMan_Example
